@@ -1,0 +1,74 @@
+-----------Scan/Vulnerability--------------
+Archery  
+Taipan  
+Arachni 
+OpenVAS 
+Metasploit Framework 
+pig 
+scapy
+Struts-Scan 
+Nikto
+Pompem 
+Nmap 
+Amass 
+Anevicon 
+Finshir 
+Legion 
+Sublist3r 
+RustScan  
+Boofuzz  
+monsoon  
+Netz
+Deepfence
+Security Onion 
+Cuckoo Sandbox 
+pwnat 
+Moloch
+wireshark
+Linux Malware Detect
+sqlmap
+The Zed Attack Proxy (ZAP)
+Infection Monkey
+w3af
+Network Miner
+LunaSec
+Burpsuite
+Xenotix 
+Vega
+Arachni
+smbmap
+
+----OS------
+Windows Exploit Suggester
+Sherlock 
+PowerUp
+enum4linux
+wifite2
+WinPeas
+ChainSaw
+Linux Suggester
+Lynis
+empire
+PowerSploit
+WinPwn
+linux-exploit-suggester-2
+BeRoot
+PE-Linux
+linPEAS
+LinEnum
+
+
+
+--------Database-------
+NoSQLMap
+SQLNinja
+Sqlmap
+Sqlmate 
+SQLiScanner
+----Password Attacks-----
+Hydra 
+Medusa 
+Sparta
+Hashcat 
+Patator  
+HackBrowserDat 
